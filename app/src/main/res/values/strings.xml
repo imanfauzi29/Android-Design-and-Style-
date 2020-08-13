@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">testAsset</string>
+    <string name="name">Name</string>
+    <string name="address">address</string>
+    <string name="city">city</string>
+    <string name="state">state</string>
+    <string name="zip">zip</string>
+    <string name="save">SAVE</string>
+    <string name="shrine">shrine</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="menu">menu</string>
+    <string name="menubar">menubar</string>
+    <string name="shrine_logo">shrine logo</string>
+    <string name="searchbar">searchbar</string>
+    <string name="search">search</string>
+    <string name="filter">filter</string>
+    <string name="titles">titles</string>
+    <string name="_300">$300</string>
+    <string name="what_s_the_right_deal_for_you">What\'s the right deal for you?</string>
+</resources>
